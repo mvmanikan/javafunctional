@@ -4,9 +4,9 @@ import java.util.function.Predicate;
 
 public class _Predicate {
     public static void main(String[] args) {
-        //28.07.2021 Predicate
+        // 28.07.2021 Predicate
+        // Represents a predicate(boolean-valued Function) of one argument
 
-        // Usual way
         boolean phoneNumberValid = isPhoneNumberValid("1516667777");
         boolean phoneNumberValid1 = isPhoneNumberValid("1516567777");
         System.out.println("Without Predicates");
