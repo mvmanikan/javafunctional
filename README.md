@@ -1,2 +1,2 @@
-# javafunctional
-FunctionalInterfaces
+# java functional
+Functional Interfaces
