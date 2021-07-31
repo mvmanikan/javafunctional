@@ -1,0 +1,2 @@
+# javafunctional
+FunctionalInterfaces
